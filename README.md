@@ -10,4 +10,4 @@ it will evaluate whether the lock will be opened or not.
 
 The code to be mounted on your development board is in the "FingerLock.ino" file.
 
-Also included is the project folder in Android of the mobile application with the name "FingerLock"
+Also included is the project folder in Android of the mobile application with the name "FingerLock".
