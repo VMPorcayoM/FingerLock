@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerLock</string>
+    <string name="txtTouch">Toca el lector de huella</string>
+</resources>
